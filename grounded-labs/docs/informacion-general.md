@@ -16,6 +16,8 @@ Una iniciativa de **workshops prácticos de inteligencia artificial aplicada** p
 - **Francisco Martínez** — Technical Manager e IA aplicada. Más de 20 años en la industria del software; lidera la adopción de IA en equipos técnicos y de negocio.
 - **Eduardo Castillo** — Salesforce, Claude e IA aplicada. Claude Certified Architect y Salesforce Agentforce Specialist; más de 20 años diseñando soluciones empresariales.
 
+Los **fundadores de GROUNDED Labs son los mismos instructores** de los cursos: están plenamente calificados para dictarlos y cuentan con una trayectoria profesional que los avala.
+
 ### ¿Dónde nos encuentras?
 - Web: https://www.grounded-labs.com/
 - LinkedIn: https://www.linkedin.com/company/grounded-labs-co
