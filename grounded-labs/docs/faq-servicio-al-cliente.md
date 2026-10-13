@@ -37,7 +37,7 @@ Una iniciativa de **workshops prácticos de inteligencia artificial aplicada** p
 - LinkedIn: https://www.linkedin.com/company/grounded-labs-co
 - Instagram: https://www.instagram.com/groundedlabs.ai
 - WhatsApp: +57 323 908 5619 (https://wa.me/573239085619)
-- Correo: groundedlabsco@gmail.com
+- Correo: hi@grounded-labs.com
 
 ### ¿Qué otros workshops tienen?
 Hoy el único workshop es **"Aprende IA construyendo tu Financial Advisor"** (finanzas personales con IA). En el sitio aparecen dos líneas futuras, **sin fecha**:
@@ -263,12 +263,12 @@ Sí, con gusto: por la encuesta o escribiendo al correo/WhatsApp.
 
 ### Cómo escalar
 - **WhatsApp:** +57 323 908 5619 — https://wa.me/573239085619
-- **Correo:** groundedlabsco@gmail.com
+- **Correo:** hi@grounded-labs.com
 
 Al derivar, recoge y resume para la persona del equipo: **nombre, correo de la cuenta (si existe), motivo y qué ya se intentó**. No prometas un tiempo de respuesta.
 
 ### Mensaje modelo cuando no sabes la respuesta
-> No tengo ese dato confirmado y prefiero no darte información equivocada. Un integrante del equipo puede ayudarte directamente: escríbenos por WhatsApp al +57 323 908 5619 o a groundedlabsco@gmail.com. Si quieres, te dejo resumido tu caso para que no tengas que repetirlo.
+> No tengo ese dato confirmado y prefiero no darte información equivocada. Un integrante del equipo puede ayudarte directamente: escríbenos por WhatsApp al +57 323 908 5619 o a hi@grounded-labs.com. Si quieres, te dejo resumido tu caso para que no tengas que repetirlo.
 
 ---
 
